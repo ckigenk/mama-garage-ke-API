@@ -1,0 +1,1 @@
+web: gunicorn MamaGarage.wsgi --log-file -
